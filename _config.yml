@@ -1,2 +1,5 @@
 theme: jekyll-theme-hacker
 title: Blast CAD/MDT
+description: A Blast from the past!
+github:
+  is_project_page: false
