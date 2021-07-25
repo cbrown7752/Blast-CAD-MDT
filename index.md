@@ -1,14 +1,12 @@
 ## Welcome to the Blast Cad/Mdt
 
-You can use the [editor on GitHub](https://github.com/cbrown7752/Blast-CAD-MDT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to Blast glad you're here. Blast is a CAD that we developed in 2021. At this time it is available inside of the beach hosting Discord. The cad has many different types of features from a management panel Leo and much more a preview is available on YouTube at this time. We've even found free hosting for people that get the cad and we even have 24/7 open support. So why not it will be the best investment you've ever done.
 
 
 
 ### How to get one
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To get a Blast CAD open a ticket inside of the [Beach Hosting Discord](https://discord.gg/HVRBPWt) server
 
 
 
