@@ -18,4 +18,4 @@ A free host can be found on [InfinityFree](https://infinityfree.net/).
 
 ## Support or Contact
 
-Having trouble with Pages? Check out our [Discord](https://discord.gg/HVRBPWt) or [Email](beachhostingteam@gmail.com) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [Discord](https://discord.gg/HVRBPWt) or [Email](mailto:beachhostingteam@gmail.com) and we’ll help you sort it out.
